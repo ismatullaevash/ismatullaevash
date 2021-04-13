@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ismatullaevash
+- 👋 Hi, I’m Shakhzoda 
 - 👀 I’m interested in game development,AI and machine learning
 - 🌱 I’m currently learning machine learning, game AI programming and game dev using unreal engine and c++
 - 💞️ I’m looking to collaborate on any innovative software developemnt project, game project
