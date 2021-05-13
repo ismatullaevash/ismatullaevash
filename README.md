@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning machine learning, game AI programming and game dev using unreal engine and c++
 - 💞️ I’m looking to collaborate on any innovative software developemnt project, game project
 - 📫 How to reach me Contact me on LinkedIn
+- 💻 Let's collaborate on hackathon project! Find me at [Devpost](https://devpost.com/ismatullaeva-sh?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <!---
 ismatullaevash/ismatullaevash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
