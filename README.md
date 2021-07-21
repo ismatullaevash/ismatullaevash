@@ -6,7 +6,7 @@
 - 💻 Let's collaborate on hackathon project! Find me at [Devpost](https://devpost.com/ismatullaeva-sh?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismatullaevash&hide=prs,issues&count_private=true&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismatullaevash&hide=prs,issues&count_private=true&show_icons=true)
 
 
 
