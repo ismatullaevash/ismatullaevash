@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any innovative software developemnt project, game project
 - 📫 How to reach me Contact me on LinkedIn
 - 💻 Let's collaborate on hackathon project! Find me at [Devpost](https://devpost.com/ismatullaeva-sh?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
+- 👩🏽‍💻 I currently work as Software Developer @Jam3 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismatullaevash&hide=prs,issues&count_private=true&show_icons=true)
 
