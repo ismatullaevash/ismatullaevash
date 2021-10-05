@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Shakhzoda 
-- 👀 I’m interested in full stack web, game development,AI and machine learning
-- 🌱 I’m currently learning machine learning, game AI programming and game dev using unreal engine and c++
-- 💞️ I’m looking to collaborate on any innovative software developemnt project, game project
-- 📫 How to reach me Contact me on LinkedIn
-- 💻 Let's collaborate on hackathon project! Find me at [Devpost](https://devpost.com/ismatullaeva-sh?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - 👩🏽‍💻 I currently work as Software Developer @Jam3 
+- 👀 I’m interested in full stack development, game development, AI and machine learning
+- 💞️ I’d love to collaborate on any innovative software development project
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/shakhzoda-ismatullaeva/) or by booking a chat with me [here](https://calendly.com/ismatullaeva-sh/chat-with-me)
+- 💻 Let's collaborate on hackathon project! Find me on [Devpost](https://devpost.com/ismatullaeva-sh?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismatullaevash&hide=prs,issues&count_private=true&show_icons=true)
 
