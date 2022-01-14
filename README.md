@@ -6,7 +6,7 @@
 - 💻 Let's collaborate on hackathon project! Find me on [Devpost](https://devpost.com/ismatullaeva-sh?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
-
+![](https://komarev.com/ghpvc/?username=ismatullaevash)
 
 
 
