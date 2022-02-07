@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shakhzoda 
-- 👩🏽‍💻 I currently work as Software Developer @Jam3 
 - 👀 I’m interested in full stack development, game development, AI and machine learning
 - 💞️ I’d love to collaborate on any innovative software development project
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/shakhzoda-ismatullaeva/) or by booking a chat with me [here](https://calendly.com/ismatullaeva-sh/chat-with-me)
